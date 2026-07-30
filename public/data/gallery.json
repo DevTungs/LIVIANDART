@@ -1,0 +1,614 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "src": "/images/gallery/art-01.jpg",
+      "title": "Arte 01",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 2,
+      "src": "/images/gallery/art-02.jpg",
+      "title": "Arte 02",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 3,
+      "src": "/images/gallery/art-03.jpg",
+      "title": "Arte 03",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 4,
+      "src": "/images/gallery/art-04.jpg",
+      "title": "Arte 04",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 5,
+      "src": "/images/gallery/art-05.jpg",
+      "title": "Arte 05",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 6,
+      "src": "/images/gallery/art-06.jpg",
+      "title": "Arte 06",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 7,
+      "src": "/images/gallery/art-07.jpg",
+      "title": "Arte 07",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 8,
+      "src": "/images/gallery/art-08.jpg",
+      "title": "Arte 08",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 9,
+      "src": "/images/gallery/art-09.jpg",
+      "title": "Arte 09",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 10,
+      "src": "/images/gallery/art-10.jpg",
+      "title": "Arte 10",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 11,
+      "src": "/images/gallery/art-11.jpg",
+      "title": "Arte 11",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 12,
+      "src": "/images/gallery/art-12.jpg",
+      "title": "Arte 12",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 13,
+      "src": "/images/gallery/art-13.jpg",
+      "title": "Arte 13",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 14,
+      "src": "/images/gallery/art-14.jpg",
+      "title": "Arte 14",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 15,
+      "src": "/images/gallery/art-15.jpg",
+      "title": "Arte 15",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 16,
+      "src": "/images/gallery/art-16.jpg",
+      "title": "Arte 16",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 17,
+      "src": "/images/gallery/art-17.jpg",
+      "title": "Arte 17",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 18,
+      "src": "/images/gallery/art-18.jpg",
+      "title": "Arte 18",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 19,
+      "src": "/images/gallery/art-19.jpg",
+      "title": "Arte 19",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 20,
+      "src": "/images/gallery/art-20.jpg",
+      "title": "Arte 20",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 21,
+      "src": "/images/gallery/art-21.jpg",
+      "title": "Arte 21",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 22,
+      "src": "/images/gallery/art-22.jpg",
+      "title": "Arte 22",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 23,
+      "src": "/images/gallery/art-23.jpg",
+      "title": "Arte 23",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 24,
+      "src": "/images/gallery/art-24.jpg",
+      "title": "Arte 24",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 25,
+      "src": "/images/gallery/art-25.jpg",
+      "title": "Arte 25",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 26,
+      "src": "/images/gallery/art-26.jpg",
+      "title": "Arte 26",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 27,
+      "src": "/images/gallery/art-27.jpg",
+      "title": "Arte 27",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 28,
+      "src": "/images/gallery/art-28.jpg",
+      "title": "Arte 28",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 29,
+      "src": "/images/gallery/art-29.jpg",
+      "title": "Arte 29",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 30,
+      "src": "/images/gallery/art-30.jpg",
+      "title": "Arte 30",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 31,
+      "src": "/images/gallery/art-31.jpg",
+      "title": "Arte 31",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 32,
+      "src": "/images/gallery/art-32.jpg",
+      "title": "Arte 32",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 33,
+      "src": "/images/gallery/art-33.jpg",
+      "title": "Arte 33",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 34,
+      "src": "/images/gallery/art-34.jpg",
+      "title": "Arte 34",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 35,
+      "src": "/images/gallery/art-35.jpg",
+      "title": "Arte 35",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 36,
+      "src": "/images/gallery/art-36.jpg",
+      "title": "Arte 36",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 37,
+      "src": "/images/gallery/art-37.jpg",
+      "title": "Arte 37",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 38,
+      "src": "/images/gallery/art-38.jpg",
+      "title": "Arte 38",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 39,
+      "src": "/images/gallery/art-39.jpg",
+      "title": "Arte 39",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 40,
+      "src": "/images/gallery/art-40.jpg",
+      "title": "Arte 40",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 41,
+      "src": "/images/gallery/art-41.jpg",
+      "title": "Arte 41",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 42,
+      "src": "/images/gallery/art-42.jpg",
+      "title": "Arte 42",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 43,
+      "src": "/images/gallery/art-43.jpg",
+      "title": "Arte 43",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 44,
+      "src": "/images/gallery/art-44.jpg",
+      "title": "Arte 44",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 45,
+      "src": "/images/gallery/art-45.jpg",
+      "title": "Arte 45",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 46,
+      "src": "/images/gallery/art-46.jpg",
+      "title": "Arte 46",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 47,
+      "src": "/images/gallery/art-47.jpg",
+      "title": "Arte 47",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 48,
+      "src": "/images/gallery/art-48.jpg",
+      "title": "Arte 48",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 49,
+      "src": "/images/gallery/art-49.jpg",
+      "title": "Arte 49",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 50,
+      "src": "/images/gallery/art-50.jpg",
+      "title": "Arte 50",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 51,
+      "src": "/images/gallery/art-51.jpg",
+      "title": "Arte 51",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 52,
+      "src": "/images/gallery/art-52.jpg",
+      "title": "Arte 52",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": true,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 53,
+      "src": "/images/gallery/art-53.jpg",
+      "title": "Arte 53",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 54,
+      "src": "/images/gallery/art-54.jpg",
+      "title": "Arte 54",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 55,
+      "src": "/images/gallery/art-55.jpg",
+      "title": "Arte 55",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 56,
+      "src": "/images/gallery/art-56.jpg",
+      "title": "Arte 56",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 57,
+      "src": "/images/gallery/art-57.jpg",
+      "title": "Arte 57",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 58,
+      "src": "/images/gallery/art-58.jpg",
+      "title": "Arte 58",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 59,
+      "src": "/images/gallery/art-59.jpg",
+      "title": "Arte 59",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 60,
+      "src": "/images/gallery/art-60.jpg",
+      "title": "Arte 60",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    },
+    {
+      "id": 61,
+      "src": "/images/gallery/art-61.jpg",
+      "title": "Arte 61",
+      "description": "",
+      "category": "ilustracao",
+      "instagramUrl": "",
+      "featured": false,
+      "createdAt": "2026-07-30"
+    }
+  ]
+}
